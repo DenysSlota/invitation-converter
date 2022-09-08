@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invitation-converter/static/css/main.f8995173.css",
+    "main.js": "/invitation-converter/static/js/main.2e114d66.js",
+    "index.html": "/invitation-converter/index.html",
+    "main.f8995173.css.map": "/invitation-converter/static/css/main.f8995173.css.map",
+    "main.2e114d66.js.map": "/invitation-converter/static/js/main.2e114d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8995173.css",
+    "static/js/main.2e114d66.js"
+  ]
+}
